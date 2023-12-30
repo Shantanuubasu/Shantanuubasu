@@ -7,10 +7,6 @@
 
 
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/shantanuubasu" target="blank"><img src="https://img.shields.io/twitter/follow/shantanuubasu?logo=twitter&style=for-the-badge" alt="profile-radme-generator" /></a> </p>
 
 
