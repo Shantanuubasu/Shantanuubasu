@@ -11,8 +11,6 @@
 
 
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=shantanuubasu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-
 - 💪🏼 Check Out my latest project :- [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
 
 - 🌱 I’m currently learning **Python and Machine learning**
