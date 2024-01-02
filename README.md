@@ -23,7 +23,7 @@ So yeah hi 🙋🏻‍♂️, to start things off, I'm a pre-final year student 
 
 ---
 
-- 💪🏼 Check Out my latest project :- [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
+- 🛠️ Check Out my latest project :- [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
 
 - 🌱 I’m currently learning **Python and Machine learning**
 
