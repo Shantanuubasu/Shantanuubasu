@@ -23,7 +23,7 @@ So yeah hi 🙋🏻‍♂️, to start things off, I'm a pre-final year student 
 
 ---
 
-- 🛠️ Check Out my latest project :- [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
+- 🛠️ Check Out my latest project :- [ShopDrop](https://github.com/Shantanuubasu/ShopDrop)
 
 - 🌱 I’m currently learning **Python and Machine learning**
 
@@ -55,6 +55,7 @@ So yeah hi 🙋🏻‍♂️, to start things off, I'm a pre-final year student 
 
 
 📊 [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
+📊 [ShopDrop - An E-commerce & Blogging Site](https://github.com/Shantanuubasu/ShopDrop)
 
 
 
