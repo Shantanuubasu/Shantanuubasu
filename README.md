@@ -55,7 +55,7 @@ So yeah hi 🙋🏻‍♂️, to start things off, I'm a pre-final year student 
 
 
 📊 [Stock Predictor App](https://github.com/Shantanuubasu/Stock_Predictor_App)
-📊 [ShopDrop - An E-commerce & Blogging Site](https://github.com/Shantanuubasu/ShopDrop)
+🛒 [ShopDrop - An E-commerce & Blogging Site](https://github.com/Shantanuubasu/ShopDrop)
 
 
 
