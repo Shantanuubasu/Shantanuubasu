@@ -10,7 +10,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/shantanuubasu?style=social)
 
-So yeah hi 🙋🏻‍♂️, to start things off, I'm a pre-final year student 🎓 at Kalinga Institute of Industrial Technology, Bhubaneswar, OD, India pursuing Bachelor's in Technology majoring in Computer Science 💻🖱️ (Information Technology to be precise). I like to get my hands on anything related to Data Science 📈, being a Machine Learning geek I usually spend my time figuring out new progressions and techs in the field. If you wanna connect with me you can drop me a text on any of my socials 🌐 mentioned below. Thanks for dropping by 👋.
+So yeah hi 🙋🏻‍♂️, to start things off, I'm a final year student 🎓 at Kalinga Institute of Industrial Technology, Bhubaneswar, OD, India pursuing Bachelor's in Technology majoring in Computer Science 💻🖱️ (Information Technology to be precise). I like to get my hands on anything related to Data Science 📈, being a Machine Learning geek I usually spend my time figuring out new progressions and techs in the field. If you wanna connect with me you can drop me a text on any of my socials 🌐 mentioned below. Thanks for dropping by 👋.
 
 
 
